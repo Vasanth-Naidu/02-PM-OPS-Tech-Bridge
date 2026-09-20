@@ -54,3 +54,13 @@
 * **Multi-Platform Technical Guidance:** Hands-on experience troubleshooting and guiding technical teams across Automation Anywhere, UiPath, Alteryx, and Xceptor[cite: 1].
 * **Operations Control Management (OCM) Alignment:** Bridging operational leadership with compliance, controls, and technical governance teams.
 * **Full-Lifecycle SDLC Ownership:** Direct involvement from initial process shadow and BRD creation to UAT data prep, production hypercare, bot repository registration, and product roadmap absorption.
+
+---
+
+### Key Project Case Studies:
+
+* 🛠️ **[PNS Legacy UDT Technical Rescue: Code Forensics & Risk Remediation](./02-PNS-Legacy-UDT-Rescue/CaseStudy.md)**  
+  *Delivered USD 0.33 MM in direct cost avoidance by reverse-engineering 28,000+ lines of Un-Documented legacy VBA code, reconstructing the AS-IS BRD, and eliminating severe JPMC compliance red flags.*
+  
+* ⚖️ **[2LOD CCOR Legal Entity Risk & Control Audit Coverage Engine](./05-CCOR-Legal-Entity-Risk-Coverage/Case-Study.md)**  
+  *Architected a multi-year Agile analytics engine (~12–15 releases) using Alteryx direct SQL ETL and Tableau for weekly OCC compliance triage. Engineered a Star Schema model with predictive velocity forecasting, automated lineage validation, broken LE link detection, and independent 2LOD re-audits across 7 Curated Analytical Facets under strict RBAC.*

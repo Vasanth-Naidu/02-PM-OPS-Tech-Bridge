@@ -59,7 +59,7 @@
 
 ### Key Project Case Studies:
 
-* 🛠️ **[PNS Legacy UDT Technical Rescue: Code Forensics & Risk Remediation](./02-PNS-Legacy-UDT-Rescue/CaseStudy.md)**  
+* 🛠️ **[PNS Legacy UDT Technical Rescue: Code Forensics & Risk Remediation](./02-PNS-Legacy-UDT-Rescue/Case-Study.md)**  
   *Delivered USD 0.33 MM in direct cost avoidance by reverse-engineering 28,000+ lines of Un-Documented legacy VBA code, reconstructing the AS-IS BRD, and eliminating severe JPMC compliance red flags.*
   
 * ⚖️ **[2LOD CCOR Legal Entity Risk & Control Audit Coverage Engine](./05-CCOR-Legal-Entity-Risk-Coverage/Case-Study.md)**  

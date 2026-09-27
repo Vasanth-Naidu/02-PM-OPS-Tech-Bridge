@@ -1,3 +1,5 @@
+**[🏠 Home](https://github.com/Vasanth-Naidu)**   |   **[↩️ Back to Repository](https://github.com/Vasanth-Naidu/02-PM-OPS-Tech-Bridge)**
+
 # Case Study: PNS Legacy UDT Technical Rescue — Code Forensics, Mainframe De-risking & Risk Remediation
 
 ## Executive Overview:
@@ -32,7 +34,7 @@ As the **UDT Champion for WPO** & Tech-Ops-Bridge, stepped in as an established 
   * Leveraged years of hands-on experience architecting Intelligent Automation tools and diagnosing, repairing, and reverse-engineering complex VB/VBA codebases across prior enterprise initiatives.
   * Entrusted by WPO leadership to execute the entire code forensics internally—delivering the complete Risk Remediation Action Plan and achieving **USD 0.33 MM in direct cost avoidance** versus external third-party consulting.
 * **Master VB/VBA Forensic Engineering:** Deployed advanced static code analysis techniques to untangle 28,000+ lines of non-standard, un-commented VBA logic across 90+ modules. Systematically mapped obscure global variables, arbitrary naming conventions, complex userform event handlers, and embedded API integration routines.
-* **Password Recovery & Forensic Decoding:** Authorized under enterprise governance to bypass password locks on legacy VBA projects, gaining direct access to inspect un-documented production logic.
+* **Password Recovery & Forensic Decoding:** Authorised under enterprise governance to bypass password locks on legacy VBA projects, gaining direct access to inspect un-documented production logic.
 * **BRD Authoring & Mainframe Flow Mapping:** Reconstructed the entire functional baseline from scratch, translating raw, tangled macro logic into an audit-ready AS-IS Business Requirement Document (BRD) and visual mainframe screen navigation map.
 * **Standby SME Support for Core Tech:** Served as the dedicated Technical SME Post-BRD delivery, bridging the gap for core engineering teams by interpreting complex legacy business logic and mainframe screen-interaction dependencies during target state platform development.
   
@@ -69,7 +71,6 @@ As the **UDT Champion for WPO** & Tech-Ops-Bridge, stepped in as an established 
 └────────────────────────────────────────────────────────────────────────────────────────┘
 
 ```
-
 ---
 
 ## 4. Reverse-Engineering & Remediation Methodology:
@@ -108,6 +109,8 @@ As the **UDT Champion for WPO** & Tech-Ops-Bridge, stepped in as an established 
 * **Enterprise Risk Remediation & Cost Avoidance:** Delivering high-impact risk action plans internally to achieve $0.33 MM in direct financial savings.
 * **Code Forensics & Software Reverse-Engineering:** Untangling massive, un-documented legacy codebases (28,000+ lines of VBA, 90+ modules) without prior documentation.
 * **Tech-Ops-Bridge Leadership:** Serving as the technical liaison between Business Operations and Core Technology to guide target-state engineering builds.
-* **Regulatory & IS Control Compliance:** Identifying severe compliance red flags (unauthorized UDT transaction auto-submission) and embedding proper risk controls.
+* **Regulatory & IS Control Compliance:** Identifying severe compliance red flags (unauthorised UDT transaction auto-submission) and embedding proper risk controls.
 
 ---
+
+**[🏠 Home](https://github.com/Vasanth-Naidu)**   |   **[↩️ Back to Repository](https://github.com/Vasanth-Naidu/02-PM-OPS-Tech-Bridge)**

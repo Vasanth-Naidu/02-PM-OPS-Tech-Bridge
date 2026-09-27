@@ -64,3 +64,7 @@
   
 * ⚖️ **[2LOD CCOR Legal Entity Risk & Control Audit Coverage Engine](./05-CCOR-Legal-Entity-Risk-Coverage/Case-Study.md)**  
   *Architected a multi-year Agile analytics engine (~12–15 releases) using Alteryx direct SQL ETL and Tableau for weekly OCC compliance triage. Engineered a Star Schema model with predictive velocity forecasting, automated lineage validation, broken LE link detection, and independent 2LOD re-audits across 7 Curated Analytical Facets under strict RBAC.*
+
+---
+
+**[🏠 Home](https://github.com/Vasanth-Naidu)** 

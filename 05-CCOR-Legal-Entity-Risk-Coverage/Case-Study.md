@@ -1,3 +1,5 @@
+**[🏠 Home](https://github.com/Vasanth-Naidu)**   |   **[↩️ Back to Repository](https://github.com/Vasanth-Naidu/02-PM-OPS-Tech-Bridge)**
+
 # Case Study: Project 05 — Legal Entity Risk & Control Audit Coverage Engine (2LOD CCOR):
 
 ## Executive Overview:
@@ -107,3 +109,4 @@ Designed specifically from the viewpoints of **2LOD Leadership** and **Internal 
 
 ---
 
+**[🏠 Home](https://github.com/Vasanth-Naidu)**   |   **[↩️ Back to Repository](https://github.com/Vasanth-Naidu/02-PM-OPS-Tech-Bridge)**
